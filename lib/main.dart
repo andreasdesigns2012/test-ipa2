@@ -420,7 +420,6 @@ class LogInPage extends StatefulWidget {
 class Controller extends ControllerMVC {
   /// Singleton Factory
   factory Controller() {
-    if (_this == null) _this = Controller._();
     return _this;
   }
 
