@@ -17,7 +17,6 @@ environment:
   sdk: ">=2.17.0 <4.0.0"
 
 dependencies:
-  momentum: ^2.0.0
   flutter:
     sdk: flutter
   cupertino_icons: ^0.1.2
